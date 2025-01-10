@@ -86,7 +86,7 @@ def get_user_input():
 [SEO SOON GOOGLE INDEXING JSON AUTOMATIC]
 '''
     print(banner)
-    print("Github: DomathID")
+    print("Github: XBumbbleB33real")
     print("=== Menu Alat ===")
     print("1. Kirim URL")
     print("2. Hapus URL")
